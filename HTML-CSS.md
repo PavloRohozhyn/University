@@ -1,6 +1,9 @@
 # HTML
 # CSS
 # BlokModel
+
+ `box-sizing` - border-box, content-box
+
 # Flex
 # Animation
 # Forms
