@@ -8,10 +8,9 @@
  `display: block` entire available line
  `display: inline` line elements follow each other, `width` and `height` it's doesn't matter (`inline-block` fix it)
 
- Images have empty white space around, to fix: `display: block;
+ Images have empty white space around, to fix: `display: block` also for responsive `max-width: 100%; height: auto`
 
- `max`
- 
+ all headings and paragraphs have margins set by the browser to reset `h1,h2,h3,h4,h5,h6,p {margin: 0}`
 
 # Flex
 # Animation
