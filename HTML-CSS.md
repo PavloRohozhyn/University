@@ -8,6 +8,11 @@
  `display: block` entire available line
  `display: inline` line elements follow each other, `width` and `height` it's doesn't matter (`inline-block` fix it)
 
+ Images have empty white space around, to fix: `display: block;
+
+ `max`
+ 
+
 # Flex
 # Animation
 # Forms
