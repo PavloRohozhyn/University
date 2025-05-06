@@ -13,6 +13,10 @@
  all headings and paragraphs have margins set by the browser, to reset `h1,h2,h3,h4,h5,h6,p {margin: 0}`
 
 # Flex
+
+Flex container (ul) flex elements (li)
+display: flex;
+
 # Animation
 # Forms
 `form` - has a novalidate attribute (disable validation), also has name for multi forms on one page
