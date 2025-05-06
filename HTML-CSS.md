@@ -16,6 +16,7 @@
 
 Flex container (ul) flex elements (li)
 display: flex;
+flex conteiner takes up the entire line
 
 # Animation
 # Forms
