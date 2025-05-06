@@ -4,6 +4,10 @@
 
  `box-sizing` - border-box, content-box
 
+ All elements of page have display property
+ `display: block` entire available line
+ `display: inline` line elements follow each other, `width` and `height` it's doesn't matter (`inline-block` fix it)
+
 # Flex
 # Animation
 # Forms
