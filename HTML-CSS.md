@@ -10,7 +10,7 @@
 
  Images have empty white space around, to fix: `display: block` also for responsive `max-width: 100%; height: auto`
 
- all headings and paragraphs have margins set by the browser to reset `h1,h2,h3,h4,h5,h6,p {margin: 0}`
+ all headings and paragraphs have margins set by the browser, to reset `h1,h2,h3,h4,h5,h6,p {margin: 0}`
 
 # Flex
 # Animation
