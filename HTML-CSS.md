@@ -1,6 +1,8 @@
-# HTML
-# CSS
-# BlokModel
+[Back](README.md)
+
+## HTML
+## CSS
+## BlokModel
 
  `box-sizing` - border-box, content-box
 
@@ -12,14 +14,14 @@
 
  all headings and paragraphs have margins set by the browser, to reset `h1,h2,h3,h4,h5,h6,p {margin: 0}`
 
-# Flex
+## Flex
 
 Flex container (ul) flex elements (li)
 display: flex;
 flex conteiner takes up the entire line
 
-# Animation
-# Forms
+## Animation
+## Forms
 `form` - has a novalidate attribute (disable validation), also has name for multi forms on one page
 
 `label` - by default inline-block, inline elements you can put other inline elements or inline-block elements
@@ -29,9 +31,9 @@ flex conteiner takes up the entire line
 
 `dataList` - select element with native filter
 
-# Table
+## Table
 
  - case 1. - Email template
  - case 2. - Table
 
-# Adaptive
+## Adaptive
