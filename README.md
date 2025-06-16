@@ -1,4 +1,4 @@
 ## Notebook
 - [HTML-CSS](HTML-CSS.md)
-- [JS](JS.md)
+- [JavaScript](JavaScript.md)
 - [React](React.md)
