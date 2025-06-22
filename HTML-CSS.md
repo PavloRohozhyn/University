@@ -40,7 +40,8 @@ flex conteiner takes up the entire line
 
 
 
-## HTML CSS Q/A
+## HTML and CSS Q/A
+
 
 1.	[Що таке `DOCTYPE` і для чого він потрібен? Що буде, якщо його не вказати?](#id1)
 2.	[Для чого потрібні мета-теги?](#id2)
